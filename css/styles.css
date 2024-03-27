@@ -68,3 +68,9 @@ footer a:hover {
 		0 0 .2em white,
 		0 0 .5em white;
 }
+
+#etpdiv {
+	
+	background-image:url("../images/theatres/pass.jpg");
+	background-size: cover;
+}
