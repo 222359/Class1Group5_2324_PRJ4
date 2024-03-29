@@ -74,3 +74,13 @@ footer a:hover {
 	background-image:url("../images/theatres/pass.jpg");
 	background-size: cover;
 }
+
+#navbar-button {
+	position: absolute;
+	top: 0;
+	right: 0;
+	background-color: #FBECCB;
+	border-color: #FBECCB;
+	color: #590E15;
+	
+}
