@@ -84,3 +84,19 @@ footer a:hover {
 	color: #590E15;
 	
 }
+
+#navbar-button2 {
+	position: relative;
+	top: 50;
+	center: 50;
+	left: 20;
+	background-color: #FBECCB;
+	border-color: #FBECCB;
+	color: #590E15;
+	
+}
+
+#abouttheatralia{
+	background-color: #FBECCB;
+	
+}
