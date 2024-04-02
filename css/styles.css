@@ -135,7 +135,7 @@ footer a:hover {
 	
 }
 
-.amsterdam-bg {
-    object-fit: cover;
+.image-bg {
 	max-width:100%;
+	height: auto;
   }
