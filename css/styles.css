@@ -139,3 +139,9 @@ footer a:hover {
 	max-width:100%;
 	height: auto;
   }
+
+.image-bg1 {
+	object-fit: contain;
+ 	object-position: center;
+ 	max-width: 100%;
+  }
