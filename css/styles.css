@@ -136,6 +136,6 @@ footer a:hover {
 }
 
 .amsterdam-bg {
-    object-fit: contain;
+    object-fit: cover;
 	max-width:100%;
   }
