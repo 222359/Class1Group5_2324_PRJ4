@@ -138,11 +138,17 @@ footer a:hover {
 .image-bg {
 	max-width:100%;
 	height: auto;
-	
+	z-index: -1;
   }
 
 .dropdown-menu {
 	background-color: #FBECCB;
 	
 	
+}
+
+
+.carousel-caption{
+	top: 1.25rem;
+    position: absolute;
 }
