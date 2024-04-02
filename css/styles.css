@@ -140,12 +140,6 @@ footer a:hover {
 	height: auto;
   }
 
-.image-bg1 {
-	object-fit: contain;
- 	object-position: center;
- 	max-width: 100%;
-  }
-
 .dropdown-menu {
 	background-color: #FBECCB;
 	
