@@ -135,11 +135,12 @@ footer a:hover {
 	
 }
 
-.image-bg {
-	max-width:100%;
-	height: auto;
-	position: relative;
-  }
+@media (max-width: 600px) {
+    .image-bg {
+        max-width: 200%;
+        webkit-transform: translateX(-25%);
+    }
+}
 
 .dropdown-menu {
 	background-color: #FBECCB;
