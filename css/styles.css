@@ -138,12 +138,11 @@ footer a:hover {
 .image-bg {
 	max-width:100%;
 	height: auto;
-	
+	position: relative;
   }
 
 .dropdown-menu {
 	background-color: #FBECCB;
-	
 	
 }
 
