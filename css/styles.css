@@ -152,3 +152,17 @@ footer a:hover {
 	top: 1.25rem;
     position: absolute;
 }
+
+.carousel-control-prev-icon 
+{
+    width: 75px;
+    height: 75px;
+
+}
+    
+.carousel-control-next-icon
+{
+    width: 75px;
+    height: 75px;
+
+}
